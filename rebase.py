@@ -1,5 +1,5 @@
 a=91
-b=8
+b=88
 
 sum a + b
 print sum
